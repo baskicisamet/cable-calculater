@@ -1,4 +1,4 @@
-# cable-calculater
+# cable-calculator
 
 haritaya eklenen, ev ve istasyonlara göre analiz yapıp en verimli ağ yapısını oluşturur.
 
